@@ -30,8 +30,8 @@ A modern React-based e-commerce management system built with Vite, TypeScript, a
 
 2. **Run development server**
    ```bash
-   npm run dev
-   ```
+npm run dev
+```
 
 3. **Build for production**
    ```bash
